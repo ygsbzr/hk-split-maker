@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhk_split_maker=self.webpackChunkhk_split_maker||[]).push([[9099],{39099:t=>{t.exports=JSON.parse('{"categoryName":"Path of Pain","startTriggeringAutosplit":"PathOfPainEntry","splitIds":["PathOfPainTransition1","PathOfPainTransition2","PathOfPainTransition3","PathOfPain"],"ordered":true,"endTriggeringAutosplit":true,"gameName":"Hollow Knight"}')}}]);
